@@ -36,16 +36,28 @@
 ---
 
 ### 🛠️ Languages & Technologies
+
 <p align="left">
+  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/C-03599C.svg?logo=c&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" />
+
+  <!-- Web -->
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D.svg?logo=arduino&logoColor=white" />
 </p>
+
 
 ---
 
