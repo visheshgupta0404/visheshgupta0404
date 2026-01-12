@@ -86,7 +86,7 @@
 - **LeetCode** – Beginner  
 - **GeeksforGeeks**
   - ✅ Completed **Java Course**
-  - 🔄 ~80% completed **JavaScript Course**
+  - ✅ Completed **JavaScript Course**
 
 ---
 
