@@ -19,8 +19,41 @@ Currently building practical projects and strengthening my foundations in machin
 | Project | What I'm building |
 | :--- | :--- |
 | **[Syncora](https://github.com/visheshgupta0404/Syncora)** | Watch together in private rooms for up to 6 people, with shared YouTube playback controls, playlists, and live chat. Built with React, Vite, and Supabase. **[Try it live ↗](https://syncoramoments.pages.dev/)** |
-| **[PlagLe](https://github.com/vedanshmathur7/PlagLe)** | Academic plagiarism detection using TF-IDF cosine similarity, document comparison, and downloadable PDF reports. Built with React, Python, FastAPI, and MySQL. |
+| **[PlagLe](https://github.com/visheshgupta0404/PlagLe)** | Academic plagiarism detection using TF-IDF cosine similarity, document comparison, and downloadable PDF reports. Built with React, Python, FastAPI, and MySQL. |
 | **[ExamEngine](https://github.com/visheshgupta0404/ExamEngine)** | A browser-based quiz app with timed questions, score tracking, and instant answer feedback. **[Live app ↗](https://visheshgupta0404.github.io/ExamEngine/)** |
+
+### All projects
+
+<details>
+<summary><strong>Browse all 22 repositories</strong></summary>
+
+Private repositories require access to view their code.
+
+| Repository | Short description |
+| :--- | :--- |
+| [Syncora](https://github.com/visheshgupta0404/Syncora) | Private watch-together rooms with shared YouTube playback, playlists, and live chat. |
+| [PlagLe](https://github.com/visheshgupta0404/PlagLe) | Academic plagiarism detection with TF-IDF similarity, document comparison, and PDF reports. |
+| [ExamEngine](https://github.com/visheshgupta0404/ExamEngine) | Browser-based quizzes with timed questions, answer feedback, and score tracking. |
+| [RoleRadar](https://github.com/visheshgupta0404/RoleRadar) · private | Job-skill analysis with API collection, text extraction, evidence views, and data-quality checks. |
+| [PickMe](https://github.com/visheshgupta0404/PickMe) · private | A multiplayer social deduction game with an LLM-powered suspect and an experimental ML classifier. |
+| [Retraction_Portal](https://github.com/visheshgupta0404/Retraction_Portal) · private | Research retraction analytics with interactive dashboards, geographic views, and comparison filters. |
+| [BorrowMe](https://github.com/visheshgupta0404/BorrowMe) | An Android app for listing items, requesting loans, and managing borrowing and lending. |
+| [IronRide](https://github.com/visheshgupta0404/IronRide) | A taxi-service website with booking, inquiry, and job-application APIs backed by MongoDB. |
+| [Interactive-Calculator](https://github.com/visheshgupta0404/Interactive-Calculator) | A responsive calculator with expression parsing, saved history, unit conversion, and everyday maths tools. |
+| [Weather-Location-Dashboard](https://github.com/visheshgupta0404/Weather-Location-Dashboard) | City weather and location details, including local time, humidity, and feels-like temperature. |
+| [Weather-By-CityName](https://github.com/visheshgupta0404/Weather-By-CityName) | A simple city search for current temperature, location, and local time. |
+| [Smart_Water_Leakage_Detection_System](https://github.com/visheshgupta0404/Smart_Water_Leakage_Detection_System) | Arduino-based water-leak detection with sensor monitoring, severity LEDs, and serial controls. |
+| [Mobile-Application-Development](https://github.com/visheshgupta0404/Mobile-Application-Development) | Four Android apps exploring currency conversion, media playback, photo galleries, and sensors. |
+| [tic-tac-toe-js](https://github.com/visheshgupta0404/tic-tac-toe-js) | A two-player browser game with turn tracking, win/draw detection, and automatic restart. |
+| [Color-Code-Challenge](https://github.com/visheshgupta0404/Color-Code-Challenge) | A colour-matching browser game with random choices, scoring, and instant feedback. |
+| [JavaScript](https://github.com/visheshgupta0404/JavaScript) · private | JavaScript exercises and mini-projects covering DOM interaction, events, games, and API calls. |
+| [Node-Js](https://github.com/visheshgupta0404/Node-Js) · private | Node.js learning exercises covering modules, file handling, HTTP, routing, and Express middleware. |
+| [DAA-Sem-4](https://github.com/visheshgupta0404/DAA-Sem-4) · private | Java coursework and practice in algorithm design and analysis. |
+| [LeetCode](https://github.com/visheshgupta0404/LeetCode) · private | Java solutions to coding problems covering arrays, strings, searching, and other algorithm patterns. |
+| [Checkups](https://github.com/visheshgupta0404/Checkups) · private | A small practice repository with a demo file. |
+| [visheshgupta0404](https://github.com/visheshgupta0404/visheshgupta0404) | My GitHub profile README, project overview, and animated portfolio banner. |
+
+</details>
 
 ### Toolkit
 
