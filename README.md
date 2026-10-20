@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/visheshgupta0404/visheshgupta0404/main/assets/terminal-dots.gif?v=2" width="1000" alt="Vishesh Gupta — AI/ML Engineer and Data Science Engineer. Animated green dot-matrix Linux terminal.">
+  <img src="https://raw.githubusercontent.com/visheshgupta0404/visheshgupta0404/e00c8b521e81d9e296ea66995ab5fcb3143ad40a/assets/terminal-dots.gif" width="1000" alt="Vishesh Gupta — AI/ML Engineer and Data Science Engineer. Animated green dot-matrix Linux terminal.">
 </p>
 
 <p align="center">
