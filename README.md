@@ -1,7 +1,6 @@
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/terminal-dots.png">
-  <img src="assets/terminal-dots.gif" width="1000" alt="Vishesh Gupta — AI/ML Engineer and Data Science Engineer. Green dot-matrix lettering in a Linux-style terminal.">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/visheshgupta0404/visheshgupta0404/main/assets/terminal-dots.gif?v=2" width="1000" alt="Vishesh Gupta — AI/ML Engineer and Data Science Engineer. Animated green dot-matrix Linux terminal.">
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/visheshgupta0404">LinkedIn</a> &nbsp;·&nbsp;
