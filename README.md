@@ -24,9 +24,18 @@ Currently building practical projects and strengthening my foundations in machin
 
 ### Toolkit
 
-**Languages** &nbsp; Python · Java · JavaScript · C · C++  
-**Web** &nbsp; React · HTML · CSS  
-**Tools** &nbsp; Git · GitHub · Jupyter · VS Code
+| Area | Technologies & skills |
+| :--- | :--- |
+| **Languages** | Python · Java · JavaScript · SQL · C · C++ |
+| **Data analysis** | pandas · NumPy · Data cleaning & normalization · Exploratory analysis · CSV/Excel processing |
+| **ML & NLP** | scikit-learn · NLTK · TF-IDF · Cosine similarity · Logistic regression · Feature engineering · Model evaluation |
+| **Data visualization** | Plotly · Recharts · Chart.js · Interactive dashboards · Geographic & time-series visualization |
+| **Frontend** | React · HTML · CSS · Tailwind CSS · Bootstrap · Vite · Framer Motion · Responsive design · PWAs |
+| **Backend & real-time** | Node.js · Express · FastAPI · Flask · REST APIs · Socket.IO · Supabase Realtime · LLM API integration |
+| **Databases** | PostgreSQL · MySQL · MongoDB/Mongoose · SQLite · Supabase · Firebase/Firestore · Redis · DuckDB/Parquet |
+| **Android & IoT** | Android SDK · Java/XML layouts · Firebase Authentication · Sensor & media integration · Arduino |
+| **Engineering** | Data structures & algorithms · OOP · Data pipelines · Schema migrations · Authentication · API integration · PDF report generation |
+| **Tools & delivery** | Git · GitHub Actions · Docker Compose · npm · Gradle · Automated testing · ESLint · Prettier · Cloudflare Pages · Vercel · Render |
 
 <p align="center">
   <a href="https://github.com/visheshgupta0404?tab=repositories">Explore my repositories ↗</a>
