@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/visheshgupta0404/visheshgupta0404/bdfb966aa379c254d4ecf8964b5f9cbe13e2c9eb/assets/profile-roles-v6.gif" width="1000" alt="Vishesh Gupta — static dotted name with animated AI/ML Engineer and Data Analyst roles.">
+  <img src="https://raw.githubusercontent.com/visheshgupta0404/visheshgupta0404/11bc6108afb56bc74e687e3ed52e1844e10bd5d7/assets/profile-roles-v7.gif" width="1000" alt="Vishesh Gupta — static dotted name with animated AI/ML Engineer and Data Analyst roles.">
 </p>
 
 <p align="center">
