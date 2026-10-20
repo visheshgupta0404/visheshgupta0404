@@ -1,10 +1,7 @@
-<h1 align="center">Hi, I'm Vishesh Gupta</h1>
-
-<p align="center"><strong>AI/ML Engineer · Data Science Engineer</strong></p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2800&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Exploring+AI+and+machine+learning;Turning+data+into+useful+insights;Building+practical+applications" alt="Exploring AI and machine learning. Turning data into useful insights. Building practical applications." />
-</p>
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/terminal-dots.png">
+  <img src="assets/terminal-dots.gif" width="1000" alt="Vishesh Gupta — AI/ML Engineer and Data Science Engineer. Green dot-matrix lettering in a Linux-style terminal.">
+</picture>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/visheshgupta0404">LinkedIn</a> &nbsp;·&nbsp;
@@ -23,7 +20,7 @@ Currently building practical projects and strengthening my foundations in machin
 | Project | What I'm building |
 | :--- | :--- |
 | **[Syncora](https://github.com/visheshgupta0404/Syncora)** | Watch together in private rooms for up to 6 people, with shared YouTube playback controls, playlists, and live chat. Built with React, Vite, and Supabase. **[Try it live ↗](https://syncoramoments.pages.dev/)** |
-| **[Interactive Calculator](https://github.com/visheshgupta0404/Interactive-Calculator)** | A responsive calculator with expression evaluation, saved history, unit conversion, and keyboard controls. **[Live app ↗](https://visheshgupta0404.github.io/Interactive-Calculator/)** |
+| **[PlagLe](https://github.com/vedanshmathur7/PlagLe)** | Academic plagiarism detection using TF-IDF cosine similarity, document comparison, and downloadable PDF reports. Built with React, Python, FastAPI, and MySQL. |
 | **[ExamEngine](https://github.com/visheshgupta0404/ExamEngine)** | A browser-based quiz app with timed questions, score tracking, and instant answer feedback. **[Live app ↗](https://visheshgupta0404.github.io/ExamEngine/)** |
 
 ### Toolkit
