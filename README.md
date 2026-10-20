@@ -45,6 +45,7 @@ Private repositories require access to view their code.
 | [Smart_Water_Leakage_Detection_System](https://github.com/visheshgupta0404/Smart_Water_Leakage_Detection_System) | Arduino-based water-leak detection with sensor monitoring, severity LEDs, and serial controls. |
 | [Mobile-Application-Development](https://github.com/visheshgupta0404/Mobile-Application-Development) | Four Android apps exploring currency conversion, media playback, photo galleries, and sensors. |
 | [tic-tac-toe-js](https://github.com/visheshgupta0404/tic-tac-toe-js) | A two-player browser game with turn tracking, win/draw detection, and automatic restart. |
+| [ATM---Simulator](https://github.com/visheshgupta0404/ATM---Simulator) | A JavaScript ATM demo with deposits, withdrawals, and private balance state implemented using closures. |
 | [Color-Code-Challenge](https://github.com/visheshgupta0404/Color-Code-Challenge) | A colour-matching browser game with random choices, scoring, and instant feedback. |
 | [JavaScript](https://github.com/visheshgupta0404/JavaScript) · private | JavaScript exercises and mini-projects covering DOM interaction, events, games, and API calls. |
 | [Node-Js](https://github.com/visheshgupta0404/Node-Js) · private | Node.js learning exercises covering modules, file handling, HTTP, routing, and Express middleware. |
