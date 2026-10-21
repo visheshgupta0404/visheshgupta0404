@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Python. Data. Models. Apps.</strong><br>
-  <sub>Building useful software from the data layer to the interface.</sub>
+  <code>AI / ML</code> &nbsp; × &nbsp; <code>DATA ANALYSIS</code> &nbsp; × &nbsp; <code>FULL-STACK SYSTEMS</code>
 </p>
 
 <p align="center">
@@ -13,48 +12,83 @@
   <a href="https://leetcode.com/u/visheshgupta0404/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat-square&amp;logo=leetcode&amp;logoColor=FFA116" alt="LeetCode profile"></a>
 </p>
 
+<p align="center">
+  <a href="#profilepy"><code>profile.py</code></a> &nbsp; / &nbsp;
+  <a href="#projects"><code>projects/</code></a> &nbsp; / &nbsp;
+  <a href="#stack"><code>stack/</code></a> &nbsp; / &nbsp;
+  <a href="#repository-index"><code>index/</code></a>
+</p>
+
+## `profile.py`
+
+```python
+profile = {
+    "name": "Vishesh Gupta",
+    "education": "B.Tech · Computer Science",
+    "focus": ["machine learning", "data analysis", "full-stack development"],
+    "working_with": ["Python", "JavaScript", "Java", "SQL"],
+    "learning": ["ML fundamentals", "algorithms", "reliable system design"],
+}
+```
+
+I build **data-driven applications**: text-similarity tools, classification experiments, analytical dashboards, and real-time web apps.
+
+```text
+raw data → clean features → models / analysis → APIs → usable interfaces
+```
+
+## `projects/`
+
+### `01` [Syncora](https://github.com/visheshgupta0404/Syncora) &nbsp; `REALTIME · WEB`
+
+Watch together in private rooms for up to six people. Shared YouTube controls, live chat, reusable playlists, and an installable PWA.
+
+```text
+React client ↔ Supabase Realtime ↔ PostgreSQL room state
+     └──────→ YouTube embedded player
+```
+
+**Engineering focus:** playback synchronization · room recovery · shared state
+
+`React` `Vite` `Supabase` `PostgreSQL` `PWA`
+
+[Live app ↗](https://syncoramoments.pages.dev/) · [Source](https://github.com/visheshgupta0404/Syncora)
+
 ---
 
-## /about
+### `02` [PlagLe](https://github.com/visheshgupta0404/PlagLe) &nbsp; `NLP · SIMILARITY`
 
-I'm **Vishesh Gupta**, a B.Tech Computer Science student building across **AI/ML, data analysis, and full-stack development**.
+Academic document comparison with TF-IDF, cosine similarity, and downloadable PDF reports.
 
-I work with text similarity, classification, interactive dashboards, and real-time applications. My projects connect the whole flow: **collect data → process it → build the API → ship the interface**.
+```text
+Documents → text extraction → TF-IDF vectors → cosine similarity
+                                                    └→ PDF report
+React UI ↔ FastAPI ↔ MySQL
+```
 
-- **AI & data:** feature engineering, NLP, model evaluation, and data visualization.
-- **Apps & systems:** APIs, databases, authentication, and shared real-time state.
-- **Currently sharpening:** machine learning fundamentals, data structures, and reliable software design.
-
-## /projects
-
-### 01 · [Syncora](https://github.com/visheshgupta0404/Syncora)
-**Different places. Same moment.**
-
-Private rooms for up to six people to watch YouTube together. Shared playback controls, reusable playlists, live chat, and an installable PWA.
-
-`React` `Vite` `Supabase` `PostgreSQL` `Realtime`
-
-[Launch app ↗](https://syncoramoments.pages.dev/) &nbsp; · &nbsp; [Explore code](https://github.com/visheshgupta0404/Syncora)
-
-### 02 · [PlagLe](https://github.com/visheshgupta0404/PlagLe)
-**From submitted documents to similarity reports.**
-
-Compare academic submissions using TF-IDF and cosine similarity. Process documents, inspect similarity results, and generate downloadable PDF reports.
+**Engineering focus:** text preprocessing · similarity scoring · document processing
 
 `Python` `scikit-learn` `NLTK` `FastAPI` `MySQL` `React`
 
-[Explore code ↗](https://github.com/visheshgupta0404/PlagLe)
+[Source ↗](https://github.com/visheshgupta0404/PlagLe)
 
-### 03 · [ExamEngine](https://github.com/visheshgupta0404/ExamEngine)
-**A focused quiz experience, built for the browser.**
+---
 
-Timed questions, immediate answer feedback, and score tracking. A practical exploration of interface state, timer management, and testable JavaScript.
+### `03` [ExamEngine](https://github.com/visheshgupta0404/ExamEngine) &nbsp; `STATE · INTERACTION`
+
+A browser-based quiz app with timed questions, immediate answer feedback, and score tracking.
+
+```text
+Question → timer + answer state → evaluation → score + feedback
+```
+
+**Engineering focus:** timer lifecycle · interface state · JavaScript testing
 
 `JavaScript` `HTML` `CSS` `Supabase` `Node.js tests`
 
-[Launch app ↗](https://visheshgupta0404.github.io/ExamEngine/) &nbsp; · &nbsp; [Explore code](https://github.com/visheshgupta0404/ExamEngine)
+[Live app ↗](https://visheshgupta0404.github.io/ExamEngine/) · [Source](https://github.com/visheshgupta0404/ExamEngine)
 
-## /stack
+## `stack/`
 
 <p>
   <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&amp;logo=python&amp;logoColor=3776AB" alt="Python" />
@@ -67,9 +101,16 @@ Timed questions, immediate answer feedback, and score tracking. A practical expl
   <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&amp;logo=git&amp;logoColor=F05032" alt="Git" />
 </p>
 
-**Data & ML** &nbsp; pandas · NumPy · scikit-learn · NLTK · Plotly  
-**Application development** &nbsp; React · Node.js · Express · FastAPI · Flask  
-**Storage & delivery** &nbsp; SQL · Supabase · MongoDB · Firebase · Docker · GitHub Actions
+```text
+stack/
+├── data-ml      pandas · NumPy · scikit-learn · NLTK
+├── analytics    Plotly · Recharts · data cleaning · dashboards
+├── interfaces   React · Tailwind CSS · Vite
+├── services     Node.js · Express · FastAPI · Flask
+├── realtime     Socket.IO · Supabase Realtime
+├── storage      PostgreSQL · MySQL · MongoDB · SQLite · Firebase
+└── delivery     Git · Docker Compose · GitHub Actions
+```
 
 <details>
 <summary><strong>Full toolkit — technologies used across my projects</strong></summary>
@@ -89,7 +130,7 @@ Timed questions, immediate answer feedback, and score tracking. A practical expl
 
 </details>
 
-## /explore
+## `repository-index/`
 
 <details>
 <summary><strong>Browse all 22 repositories</strong></summary>
@@ -126,6 +167,8 @@ Private repositories require access to view their code.
 ---
 
 <p align="center">
-  <sub>Have a project idea or want to build together?</sub><br>
-  <a href="mailto:visheshg990@gmail.com"><strong>Let's connect ↗</strong></a>
+  <code>ideas → code → tests → iterate</code><br><br>
+  <a href="mailto:visheshg990@gmail.com">Email</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/visheshgupta0404">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="https://github.com/visheshgupta0404?tab=repositories">Repositories ↗</a>
 </p>
