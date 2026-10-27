@@ -1,3 +1,7 @@
+# Vishesh Gupta
+
+I’m **Vishesh Gupta**, a B.Tech Computer Science student at **BML Munjal University** focused on machine learning, data analysis, and full-stack development. I build **data-driven applications**: NLP tools, chronological ML experiments, traceable analytics, and real-time web systems.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/visheshgupta0404/visheshgupta0404/11bc6108afb56bc74e687e3ed52e1844e10bd5d7/assets/profile-roles-v7.gif" width="1000" alt="Vishesh Gupta — static dotted name with animated AI/ML Engineer and Data Analyst roles.">
 </p>
@@ -30,8 +34,6 @@ profile = {
     "learning": ["ML evaluation", "algorithms", "reliable system design"],
 }
 ```
-
-I’m **Vishesh Gupta**, a B.Tech Computer Science student focused on machine learning, data analysis, and full-stack development. I build **data-driven applications**: NLP tools, chronological ML experiments, traceable analytics, and real-time web systems.
 
 ```text
 raw data → clean features → models / analysis → APIs → usable interfaces
