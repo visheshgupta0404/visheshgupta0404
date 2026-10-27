@@ -31,7 +31,7 @@ profile = {
 }
 ```
 
-I build **data-driven applications**: NLP tools, chronological ML experiments, traceable analytics, and real-time web systems.
+I’m **Vishesh Gupta**, a B.Tech Computer Science student focused on machine learning, data analysis, and full-stack development. I build **data-driven applications**: NLP tools, chronological ML experiments, traceable analytics, and real-time web systems.
 
 ```text
 raw data → clean features → models / analysis → APIs → usable interfaces
@@ -228,6 +228,6 @@ Private repositories require access to view their code.
 <p align="center">
   <code>ideas → code → tests → iterate</code><br><br>
   <a href="mailto:visheshg990@gmail.com">Email</a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/visheshgupta0404">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/visheshgupta0404">Vishesh Gupta on LinkedIn</a> &nbsp; · &nbsp;
   <a href="https://github.com/visheshgupta0404?tab=repositories">Repositories ↗</a>
 </p>
