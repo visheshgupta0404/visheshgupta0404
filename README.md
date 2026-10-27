@@ -27,11 +27,11 @@ profile = {
     "education": "B.Tech · Computer Science",
     "focus": ["machine learning", "data analysis", "full-stack development"],
     "working_with": ["Python", "JavaScript", "Java", "SQL"],
-    "learning": ["ML fundamentals", "algorithms", "reliable system design"],
+    "learning": ["ML evaluation", "algorithms", "reliable system design"],
 }
 ```
 
-I build **data-driven applications**: text-similarity tools, classification experiments, analytical dashboards, and real-time web apps.
+I build **data-driven applications**: NLP tools, chronological ML experiments, traceable analytics, and real-time web systems.
 
 ```text
 raw data → clean features → models / analysis → APIs → usable interfaces
@@ -39,34 +39,35 @@ raw data → clean features → models / analysis → APIs → usable interfaces
 
 ## `projects/`
 
-### `01` [Syncora](https://github.com/visheshgupta0404/Syncora) &nbsp; `REALTIME · WEB`
+Selected work across **real-time products, NLP, assessment systems, analytics, and ML research**. Private source repositories are labeled; public demos are linked where available.
 
-Watch together in private rooms for up to six people. Shared YouTube controls, live chat, reusable playlists, and an installable PWA.
+### `01` [Syncora](https://github.com/visheshgupta0404/Syncora) &nbsp; `REALTIME · PWA`
+
+Private watch-together rooms for up to six people, with shared YouTube playback, reusable playlists, invitations, and live chat.
 
 ```text
 React client ↔ Supabase Realtime ↔ PostgreSQL room state
      └──────→ YouTube embedded player
 ```
 
-**Engineering focus:** playback synchronization · room recovery · shared state
+**Engineering:** playback synchronization · room recovery · shared state · server-side search
 
-`React` `Vite` `Supabase` `PostgreSQL` `PWA`
+`React` `Vite` `Supabase` `PostgreSQL` `Cloudflare Pages`
 
 [Live app ↗](https://syncoramoments.pages.dev/) · [Source](https://github.com/visheshgupta0404/Syncora)
 
 ---
 
-### `02` [PlagLe](https://github.com/visheshgupta0404/PlagLe) &nbsp; `NLP · SIMILARITY`
+### `02` [PlagLe](https://github.com/visheshgupta0404/PlagLe) &nbsp; `NLP · DOCUMENT SIMILARITY`
 
-Academic document comparison with TF-IDF, cosine similarity, and downloadable PDF reports.
+Compare academic submissions through text extraction, TF-IDF vectors, and cosine similarity, then generate downloadable PDF reports.
 
 ```text
-Documents → text extraction → TF-IDF vectors → cosine similarity
-                                                    └→ PDF report
+Documents → extracted text → TF-IDF → similarity scores → PDF report
 React UI ↔ FastAPI ↔ MySQL
 ```
 
-**Engineering focus:** text preprocessing · similarity scoring · document processing
+**Engineering:** document processing · text preprocessing · similarity scoring · API/database integration
 
 `Python` `scikit-learn` `NLTK` `FastAPI` `MySQL` `React`
 
@@ -74,19 +75,75 @@ React UI ↔ FastAPI ↔ MySQL
 
 ---
 
-### `03` [ExamEngine](https://github.com/visheshgupta0404/ExamEngine) &nbsp; `STATE · INTERACTION`
+### `03` [ExamEngine](https://github.com/visheshgupta0404/ExamEngine) &nbsp; `FULL STACK · ASSESSMENTS`
 
-A browser-based quiz app with timed questions, immediate answer feedback, and score tracking.
+A multi-college assessment platform with separate student, professor, and administrator flows. Includes question authoring, timed attempts, autosave/recovery, written-answer grading, and controlled result release.
 
 ```text
-Question → timer + answer state → evaluation → score + feedback
+Student / professor / admin → Google OAuth → PostgreSQL RPCs
+                                      └→ timing, grading & access checks
 ```
 
-**Engineering focus:** timer lifecycle · interface state · JavaScript testing
+**Engineering:** server-authoritative timing/grading · role and college boundaries · idempotent submissions
 
-`JavaScript` `HTML` `CSS` `Supabase` `Node.js tests`
+`JavaScript` `Supabase` `PostgreSQL` `OAuth / PKCE` `Node.js tests`
 
-[Live app ↗](https://visheshgupta0404.github.io/ExamEngine/) · [Source](https://github.com/visheshgupta0404/ExamEngine)
+[Live app ↗](https://visheshgupta0404.github.io/ExamEngine/) · [Source & technical handoff](https://github.com/visheshgupta0404/ExamEngine)
+
+<sub>Deployed implementation; real-account acceptance and hosted capacity checks remain launch requirements.</sub>
+
+### `data-lab/`
+
+#### [DispatchLens](https://github.com/visheshgupta0404/DispatchLens) &nbsp; `ANALYTICS · SQL` · private source
+
+Investigate historical e-commerce delivery delays through ten dashboard views, seller/destination/category comparisons, a priority queue, and individual order evidence.
+
+```text
+Official CSVs → checksum audit → order-grain SQLite facts
+                              → dashboard → order timelines & CSV evidence
+```
+
+**Evidence:** reconciled **83,696 eligible orders** and **5,930 late deliveries (7.09%)** for January 2017–June 2018 cohorts. SQL/UI parity and chronology checks support the analysis; findings are descriptive, not causal.
+
+`Python` `SQLite` `SQL` `JavaScript` `Data quality` `GitHub Pages`
+
+[Public dashboard ↗](https://visheshgupta0404.github.io/DispatchLens/) · [Case study · access required](https://github.com/visheshgupta0404/DispatchLens/blob/main/docs/case_study.md)
+
+---
+
+#### [NIFTY 50 Direction Prediction](https://github.com/visheshgupta0404/nifty50-direction-prediction) &nbsp; `ML · TIME SERIES` · private source
+
+Research pipeline for next-session UP versus DOWN/FLAT classification, with audited trading-session labels, training-only imputation, chronological validation, and TreeSHAP explanations.
+
+```text
+Daily bars → session audit → returns features → chronological model selection
+                                             → frozen holdout evaluation
+```
+
+**Evidence:** selected XGBoost achieved **54.10% accuracy** versus a **52.25% dummy baseline** on 488 eligible 2024–2025 sessions. The measured advantage is statistically uncertain; this is a research prototype, with no live app or demonstrated trading profitability.
+
+`Python` `pandas` `NumPy` `scikit-learn` `XGBoost` `Matplotlib` `pytest`
+
+[Research results · access required ↗](https://github.com/visheshgupta0404/nifty50-direction-prediction/blob/main/reports/summary.md)
+
+---
+
+#### [RoleRadar](https://github.com/visheshgupta0404/RoleRadar) &nbsp; `DATA PIPELINES · TEXT EXTRACTION` · private source
+
+An India-focused job-skill intelligence MVP covering 13 career groups. Connects job-source APIs to normalized records, skill/co-occurrence reports, source evidence, profile comparisons, and CSV exports.
+
+```text
+Job APIs → validated records → SQLite → rule-based extraction
+                                    → evidence reports + DuckDB / Parquet exports
+```
+
+**Engineering:** repeat-import safety · schema migrations · source traceability · annotation workflow · data-quality checks
+
+`Python` `SQLite` `DuckDB` `Parquet` `JavaScript` `HTTP APIs`
+
+[Project & methodology · access required ↗](https://github.com/visheshgupta0404/RoleRadar)
+
+<sub>Local MVP. Extraction is rule-based; no measured real-data ML accuracy or public deployment is claimed.</sub>
 
 ## `stack/`
 
@@ -103,7 +160,7 @@ Question → timer + answer state → evaluation → score + feedback
 
 ```text
 stack/
-├── data-ml      pandas · NumPy · scikit-learn · NLTK
+├── data-ml      pandas · NumPy · scikit-learn · XGBoost · NLTK
 ├── analytics    Plotly · Recharts · data cleaning · dashboards
 ├── interfaces   React · Tailwind CSS · Vite
 ├── services     Node.js · Express · FastAPI · Flask
@@ -119,8 +176,8 @@ stack/
 | :--- | :--- |
 | **Languages** | Python · Java · JavaScript · SQL · C · C++ |
 | **Data analysis** | pandas · NumPy · Data cleaning & normalization · Exploratory analysis · CSV/Excel processing |
-| **ML & NLP** | scikit-learn · NLTK · TF-IDF · Cosine similarity · Logistic regression · Feature engineering · Model evaluation |
-| **Data visualization** | Plotly · Recharts · Chart.js · Interactive dashboards · Geographic & time-series visualization |
+| **ML & NLP** | scikit-learn · XGBoost · NLTK · TF-IDF · Cosine similarity · Logistic regression · Feature engineering · Chronological validation · TreeSHAP |
+| **Data visualization** | Matplotlib · Plotly · Recharts · Chart.js · Interactive dashboards · Geographic & time-series visualization |
 | **Frontend** | React · HTML · CSS · Tailwind CSS · Bootstrap · Vite · Framer Motion · Responsive design · PWAs |
 | **Backend & real-time** | Node.js · Express · FastAPI · Flask · REST APIs · Socket.IO · Supabase Realtime · LLM API integration |
 | **Databases** | PostgreSQL · MySQL · MongoDB/Mongoose · SQLite · Supabase · Firebase/Firestore · Redis · DuckDB/Parquet |
@@ -133,7 +190,7 @@ stack/
 ## `repository-index/`
 
 <details>
-<summary><strong>Browse all 22 repositories</strong></summary>
+<summary><strong>Browse all 24 repositories</strong></summary>
 
 Private repositories require access to view their code.
 
@@ -141,7 +198,9 @@ Private repositories require access to view their code.
 | :--- | :--- |
 | [Syncora](https://github.com/visheshgupta0404/Syncora) | Private watch-together rooms with shared YouTube playback, playlists, and live chat. |
 | [PlagLe](https://github.com/visheshgupta0404/PlagLe) | Academic plagiarism detection with TF-IDF similarity, document comparison, and PDF reports. |
-| [ExamEngine](https://github.com/visheshgupta0404/ExamEngine) | Browser-based quizzes with timed questions, answer feedback, and score tracking. |
+| [ExamEngine](https://github.com/visheshgupta0404/ExamEngine) | Multi-college assessments with role-based access, timed attempts, autosave, grading, and result release. |
+| [DispatchLens](https://github.com/visheshgupta0404/DispatchLens) · private source | Historical delivery-delay analytics with SQL-backed metrics, investigation queues, and a [public dashboard](https://visheshgupta0404.github.io/DispatchLens/). |
+| [nifty50-direction-prediction](https://github.com/visheshgupta0404/nifty50-direction-prediction) · private | Chronological ML research with audited trading-session labels, baseline comparisons, and frozen holdout evaluation. |
 | [RoleRadar](https://github.com/visheshgupta0404/RoleRadar) · private | Job-skill analysis with API collection, text extraction, evidence views, and data-quality checks. |
 | [PickMe](https://github.com/visheshgupta0404/PickMe) · private | A multiplayer social deduction game with an LLM-powered suspect and an experimental ML classifier. |
 | [Retraction_Portal](https://github.com/visheshgupta0404/Retraction_Portal) · private | Research retraction analytics with interactive dashboards, geographic views, and comparison filters. |
