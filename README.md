@@ -2,19 +2,24 @@
 
 <table>
 <tr>
-<td width="30%" valign="top">
-<img src="assets/ascii-portrait.png" width="170" alt="Vishesh Gupta's original ASCII portrait">
+<td width="36%" valign="middle">
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/ascii-portrait.png"><img src="assets/ascii-portrait-animated.gif" width="280" alt="Vishesh Gupta’s original ASCII portrait with a gentle terminal scan and blinking cursor"></picture>
 </td>
 <td valign="top">
 
-# Vishesh Gupta
+# `VISHESH GUPTA_`
 
 **`Computer Science Student`**<br>
 **`Developer · Problem Solver`**
 
 I build useful real-world products through **software development**, **full-stack engineering**, **machine learning**, and **data analysis**.
 
-**[LinkedIn ↗](https://www.linkedin.com/in/visheshgupta0404)** · **[GitHub ↗](https://github.com/visheshgupta0404)** · **[Email ↗](mailto:visheshg990@gmail.com)** · **[LeetCode ↗](https://leetcode.com/u/visheshgupta0404/)**
+<p>
+<a href="https://www.linkedin.com/in/visheshgupta0404"><img src="assets/connect-linkedin.svg" width="116" alt="Open Linkedin"></a>
+<a href="https://github.com/visheshgupta0404"><img src="assets/connect-github.svg" width="116" alt="Open Github"></a>
+<a href="mailto:visheshg990@gmail.com"><img src="assets/connect-email.svg" width="116" alt="Open Email"></a>
+<a href="https://leetcode.com/u/visheshgupta0404/"><img src="assets/connect-leetcode.svg" width="116" alt="Open Leetcode"></a>
+</p>
 
 ```js
 const mindset = {
@@ -28,9 +33,9 @@ const mindset = {
 </tr>
 </table>
 
-<p align="center"><code>CODE → BUILD → LEARN → COLLABORATE → INNOVATE → REPEAT</code></p>
+<img src="assets/philosophy.svg" width="100%" alt="CODE → BUILD → LEARN → COLLABORATE → INNOVATE → REPEAT">
 
-## `> cat stack.txt`
+<img src="assets/section-stack.svg" width="100%" alt="Tech Stack">
 
 | Languages | Engineering | ML & tools |
 | :--- | :--- | :--- |
@@ -39,7 +44,7 @@ const mindset = {
 | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [FastAPI](https://fastapi.tiangolo.com/) | [Git](https://git-scm.com/) |
 | [SQL](https://www.postgresql.org/docs/current/sql.html) | [PostgreSQL](https://www.postgresql.org/) | |
 
-## `> ls projects/`
+<img src="assets/section-projects.svg" width="100%" alt="Featured Projects">
 
 <table>
 <tr>
@@ -92,7 +97,7 @@ A historical delivery-delay analytics dashboard with SQL-backed investigation.
 </tr>
 </table>
 
-## `> git status --activity`
+<img src="assets/section-activity.svg" width="100%" alt="Github Activity">
 
 <!-- ACTIVITY:START -->
 
