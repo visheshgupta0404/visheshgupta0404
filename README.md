@@ -56,7 +56,5 @@ I build useful real-world products through **software development**, **full-stac
 
 ---
 
-`$ ./connect --ideas --code --collaborate`
-
 [LinkedIn](https://www.linkedin.com/in/visheshgupta0404) · [GitHub](https://github.com/visheshgupta0404) · [LeetCode](https://leetcode.com/u/visheshgupta0404/) · [visheshg990@gmail.com](mailto:visheshg990@gmail.com)
 
