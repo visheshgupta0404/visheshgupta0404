@@ -31,31 +31,18 @@ I build useful real-world products through **software development**, **full-stac
 
 <img src="assets/section-stack.svg" width="100%" alt="Tech Stack">
 
-`$ cat stack --group-by category`
-
-**Languages**  
-Python · Java · JavaScript · TypeScript · SQL · HTML · CSS · C++ (Arduino)
-
-**Frontend & games**  
-React · Next.js · Tailwind CSS · Bootstrap · Framer Motion · Phaser
-
-**Backend & realtime**  
-Node.js · Express · FastAPI · Flask · Socket.IO · Pydantic · Zod
-
-**Databases & storage**  
-PostgreSQL · Supabase · MongoDB · MySQL · SQLite · Redis · DuckDB · Firebase / Firestore
-
-**Machine learning & data**  
-scikit-learn · NumPy · pandas · SciPy · NLTK · XGBoost
-
-**Charts & maps**  
-Matplotlib · Plotly · Chart.js · Recharts · deck.gl · MapLibre GL
-
-**Mobile & hardware**  
-Android SDK · AndroidX · Material Components · Arduino Uno
-
-**Build, tests & delivery**  
-Git · GitHub Actions · Docker · Vite · esbuild · Gradle · pytest · Playwright · ESLint · Prettier · Ruff
+| Category | Technologies used across my repositories |
+| :--- | :--- |
+| **Languages & web basics** | <a href="https://www.python.org/" title="Python"><img src="assets/tech-python.png" width="40" height="40" alt="Python"></a> <a href="https://dev.java/" title="Java"><img src="assets/tech-java.png" width="40" height="40" alt="Java"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="assets/tech-javascript.png" width="40" height="40" alt="JavaScript"></a> <a href="https://www.postgresql.org/docs/current/sql.html" title="SQL"><img src="assets/tech-sql.png" width="40" height="40" alt="SQL"></a><br>TypeScript · HTML · CSS · Arduino C++ |
+| **Frontend & UI** | <a href="https://react.dev/" title="React"><img src="assets/tech-react.png" width="40" height="40" alt="React"></a><br>Next.js · Tailwind CSS · Bootstrap · Framer Motion · React Router |
+| **Backend & realtime** | <a href="https://nodejs.org/" title="Node.js"><img src="assets/tech-nodejs.png" width="40" height="40" alt="Node.js"></a> <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="assets/tech-fastapi.png" width="40" height="40" alt="FastAPI"></a><br>Express · Flask · Socket.IO · Pydantic · Zod |
+| **SQL databases** | <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="assets/tech-postgresql.png" width="40" height="40" alt="PostgreSQL"></a><br>MySQL · SQLite · DuckDB · PGlite |
+| **NoSQL & caching** | MongoDB · Firestore · Redis |
+| **Backend services** | Supabase · Firebase Authentication · Firebase Storage · Neon |
+| **Machine learning & data** | <a href="https://scikit-learn.org/" title="scikit-learn"><img src="assets/tech-scikit-learn.png" width="40" height="40" alt="scikit-learn"></a><br>NumPy · pandas · SciPy · NLTK · XGBoost |
+| **Charts & maps** | Matplotlib · Plotly · Chart.js · Recharts · deck.gl · MapLibre GL |
+| **Mobile, games & hardware** | Android SDK · AndroidX · Material Components · Phaser · Arduino Uno |
+| **Development & delivery** | <a href="https://git-scm.com/" title="Git"><img src="assets/tech-git.png" width="40" height="40" alt="Git"></a> <a href="https://www.docker.com/" title="Docker"><img src="assets/tech-docker.png" width="40" height="40" alt="Docker"></a><br>GitHub Actions · Vite · esbuild · Gradle · pytest · Playwright · ESLint · Prettier · Ruff |
 
 <details>
 <summary>Supporting libraries & integrations</summary>
