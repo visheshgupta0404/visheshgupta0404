@@ -31,28 +31,63 @@ I build useful real-world products through **software development**, **full-stac
 
 <img src="assets/section-stack.svg" width="100%" alt="Tech Stack">
 
-<p align="center">
-  <a href="https://www.python.org/" title="Python"><img src="assets/tech-python.png" width="64" height="64" alt="Python"></a>
-  <a href="https://dev.java/" title="Java"><img src="assets/tech-java.png" width="64" height="64" alt="Java"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="assets/tech-javascript.png" width="64" height="64" alt="JavaScript"></a>
-  <a href="https://www.postgresql.org/docs/current/sql.html" title="SQL"><img src="assets/tech-sql.png" width="64" height="64" alt="SQL"></a>
-  <a href="https://react.dev/" title="React"><img src="assets/tech-react.png" width="64" height="64" alt="React"></a>
-  <a href="https://nodejs.org/" title="Node.js"><img src="assets/tech-nodejs.png" width="64" height="64" alt="Node.js"></a>
-  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="assets/tech-fastapi.png" width="64" height="64" alt="FastAPI"></a>
-  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="assets/tech-postgresql.png" width="64" height="64" alt="PostgreSQL"></a>
-  <a href="https://www.docker.com/" title="Docker"><img src="assets/tech-docker.png" width="64" height="64" alt="Docker"></a>
-  <a href="https://git-scm.com/" title="Git"><img src="assets/tech-git.png" width="64" height="64" alt="Git"></a>
-  <a href="https://scikit-learn.org/" title="scikit-learn"><img src="assets/tech-scikit-learn.png" width="64" height="64" alt="scikit-learn"></a>
-</p>
+`$ cat stack --group-by category`
+
+**Languages**  
+Python · Java · JavaScript · TypeScript · SQL · HTML · CSS · C++ (Arduino)
+
+**Frontend & games**  
+React · Next.js · Tailwind CSS · Bootstrap · Framer Motion · Phaser
+
+**Backend & realtime**  
+Node.js · Express · FastAPI · Flask · Socket.IO · Pydantic · Zod
+
+**Databases & storage**  
+PostgreSQL · Supabase · MongoDB · MySQL · SQLite · Redis · DuckDB · Firebase / Firestore
+
+**Machine learning & data**  
+scikit-learn · NumPy · pandas · SciPy · NLTK · XGBoost
+
+**Charts & maps**  
+Matplotlib · Plotly · Chart.js · Recharts · deck.gl · MapLibre GL
+
+**Mobile & hardware**  
+Android SDK · AndroidX · Material Components · Arduino Uno
+
+**Build, tests & delivery**  
+Git · GitHub Actions · Docker · Vite · esbuild · Gradle · pytest · Playwright · ESLint · Prettier · Ruff
+
+<details>
+<summary>Supporting libraries & integrations</summary>
+
+- **Web & APIs:** React Router, Axios, React Bootstrap, React Select, Lucide, React Map GL, React Plotly, React Chart.js, PWA tooling, KaTeX, Web Audio.
+- **Database access:** SQLAlchemy, Mongoose, psycopg2, node-postgres, MySQL Connector, PGlite, Neon.
+- **Documents & data:** PyPDF2, python-docx, ReportLab, Pillow, openpyxl, RapidFuzz, joblib, yfinance, pandas-market-calendars, Parquet.
+- **Services & validation:** Google Gen AI SDK, iron-session, JSZip, HTTPX, Uvicorn, Gunicorn, Waitress.
+- **Android:** Firebase Authentication, Firebase Storage, OkHttp, Glide, View Binding, Data Binding, JUnit, Espresso.
+- **Tooling & hosting:** npm, PostCSS, Autoprefixer, jsdom, Node.js test runner, GitHub Pages, Cloudflare Pages, Vercel.
+
+</details>
+
+<sub>Grouped from project source, dependency manifests and documentation; supporting libraries are collapsed to keep the page readable.</sub>
 
 <img src="assets/section-projects.svg" width="100%" alt="Featured Projects">
 
-| Project | What it does | Explore |
-| :--- | :--- | :--- |
-| **[Syncora](https://github.com/visheshgupta0404/Syncora)** | Synchronized YouTube playback, playlists and live chat. | [Source](https://github.com/visheshgupta0404/Syncora) · [Live ↗](https://syncoramoments.pages.dev/) |
-| **[PlagLe](https://github.com/visheshgupta0404/PlagLe)** | Document similarity and plagiarism analysis with TF-IDF and cosine similarity. | [Source ↗](https://github.com/visheshgupta0404/PlagLe) |
-| **[ExamEngine](https://github.com/visheshgupta0404/ExamEngine)** | Authenticated assessments with student, professor and administrator roles. | [Source](https://github.com/visheshgupta0404/ExamEngine) · [Live ↗](https://visheshgupta0404.github.io/ExamEngine/) |
-| **[DispatchLens](https://visheshgupta0404.github.io/DispatchLens/)** | Historical delivery-delay analytics and SQL-backed investigation. | [Live ↗](https://visheshgupta0404.github.io/DispatchLens/) · private source |
+<a href="https://syncoramoments.pages.dev/"><img src="assets/project-syncora.svg" width="760" alt="Syncora — click to open live project"></a>
+
+[Source ↗](https://github.com/visheshgupta0404/Syncora) · [Open live project ↗](https://syncoramoments.pages.dev/)
+
+<a href="https://github.com/visheshgupta0404/PlagLe"><img src="assets/project-plagle.svg" width="760" alt="PlagLe — click to open source repository"></a>
+
+[Source ↗](https://github.com/visheshgupta0404/PlagLe)
+
+<a href="https://visheshgupta0404.github.io/ExamEngine/"><img src="assets/project-examengine.svg" width="760" alt="ExamEngine — click to open live project"></a>
+
+[Source ↗](https://github.com/visheshgupta0404/ExamEngine) · [Open live project ↗](https://visheshgupta0404.github.io/ExamEngine/)
+
+<a href="https://visheshgupta0404.github.io/DispatchLens/"><img src="assets/project-dispatchlens.svg" width="760" alt="DispatchLens — click to open live project"></a>
+
+Private source · [Open live project ↗](https://visheshgupta0404.github.io/DispatchLens/)
 
 ---
 
