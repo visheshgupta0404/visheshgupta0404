@@ -54,42 +54,9 @@ I build useful real-world products through **software development**, **full-stac
 | **[ExamEngine](https://github.com/visheshgupta0404/ExamEngine)** | Authenticated assessments with student, professor and administrator roles. | [Source](https://github.com/visheshgupta0404/ExamEngine) · [Live ↗](https://visheshgupta0404.github.io/ExamEngine/) |
 | **[DispatchLens](https://visheshgupta0404.github.io/DispatchLens/)** | Historical delivery-delay analytics and SQL-backed investigation. | [Live ↗](https://visheshgupta0404.github.io/DispatchLens/) · private source |
 
-<img src="assets/section-activity.svg" width="100%" alt="Github Activity">
-
-<!-- ACTIVITY:START -->
-
-**Last refreshed:** 2026-10-31 16:29 UTC
-
-| Public original repositories | Stars received | Forks received |
-| :---: | :---: | :---: |
-| 14 | 13 | 2 |
-
-**Most-used languages**
-
-| Language | Share of code bytes |
-| :--- | ---: |
-| JavaScript | 27.9% |
-| HTML | 22.0% |
-| Python | 12.5% |
-| Java | 12.3% |
-| TypeScript | 9.9% |
-
-**Recently pushed repositories**
-
-- [visheshgupta0404](https://github.com/visheshgupta0404/visheshgupta0404) · 2026-10-31
-- [FixOnce](https://github.com/visheshgupta0404/FixOnce) · 2026-10-31
-- [QuestOS](https://github.com/visheshgupta0404/QuestOS) · 2026-10-31
-
-<!-- ACTIVITY:END -->
-
-[![Contribution calendar](assets/contributions.svg)](https://github.com/visheshgupta0404?tab=overview)
-
-[Current contribution activity ↗](https://github.com/visheshgupta0404?tab=overview) · [All repositories ↗](https://github.com/visheshgupta0404?tab=repositories) · [Refresh workflow ↗](https://github.com/visheshgupta0404/visheshgupta0404/actions/workflows/refresh-profile.yml)
-
-<sub>Activity refreshes daily through GitHub Actions. The timestamp above shows the last successful refresh. Repository and language metrics cover public original repositories; language bytes are not proficiency ratings.</sub>
-
 ---
 
 `$ ./connect --ideas --code --collaborate`
 
 [LinkedIn](https://www.linkedin.com/in/visheshgupta0404) · [GitHub](https://github.com/visheshgupta0404) · [LeetCode](https://leetcode.com/u/visheshgupta0404/) · [visheshg990@gmail.com](mailto:visheshg990@gmail.com)
+
