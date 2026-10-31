@@ -1,51 +1,42 @@
 <picture>
-  <source media="(max-width: 640px)" srcset="assets/terminal-hero-mobile.png">
-  <img src="assets/terminal-hero.png" width="100%" alt="Vishesh Gupta, Computer Science Student, Developer and Problem Solver in India. Original ASCII portrait. Building useful products through software development, full-stack engineering, machine learning and data analysis. Email: visheshg990@gmail.com. GitHub and LinkedIn: visheshgupta0404.">
+  <source media="(max-width: 640px)" srcset="assets/option1-mobile.png">
+  <img src="assets/option1-dashboard.png" width="100%" alt="Vishesh Gupta's terminal developer dashboard. Original ASCII portrait on the left, outlined VISHESH GUPTA lettering on the right, a developer philosophy bar, technology tiles, four featured project cards and verified GitHub activity. A stacked version displays on mobile. Text profile and working project links follow below.">
 </picture>
 
-<p align="center">
-  <a href="https://github.com/visheshgupta0404">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/visheshgupta0404">LinkedIn</a> ·
-  <a href="https://leetcode.com/u/visheshgupta0404/">LeetCode</a> ·
-  <a href="mailto:visheshg990@gmail.com">Email</a>
-</p>
+**`01 / Syncora`** — [Source](https://github.com/visheshgupta0404/Syncora) · [Live](https://syncoramoments.pages.dev/)  
+**`02 / PlagLe`** — [Source](https://github.com/visheshgupta0404/PlagLe)  
+**`03 / ExamEngine`** — [Source](https://github.com/visheshgupta0404/ExamEngine) · [Live](https://visheshgupta0404.github.io/ExamEngine/)  
+**`04 / DispatchLens`** — [Live dashboard](https://visheshgupta0404.github.io/DispatchLens/) · private source
 
-![Developer philosophy: CODE → BUILD → LEARN → COLLABORATE → INNOVATE → REPEAT](assets/philosophy.svg)
+`$ ./connect` — [GitHub](https://github.com/visheshgupta0404) · [LinkedIn](https://www.linkedin.com/in/visheshgupta0404) · [LeetCode](https://leetcode.com/u/visheshgupta0404/) · [Email](mailto:visheshg990@gmail.com)
 
-## `~/stack`
+<details>
+<summary>Text profile · project details · activity notes</summary>
 
-<img src="assets/stack-languages.svg" width="320" alt="Languages: Python, Java, JavaScript, SQL"> <img src="assets/stack-engineering.svg" width="320" alt="Engineering: React, Node.js, FastAPI, PostgreSQL"> <img src="assets/stack-tooling.svg" width="320" alt="Machine learning and tools: Docker, Git, scikit-learn">
+### Vishesh Gupta
 
-## `~/projects` <sub>Selected work</sub>
+**Computer Science Student | Developer | Problem Solver** · India
 
-<a href="https://github.com/visheshgupta0404/Syncora"><picture><source media="(max-width: 640px)" srcset="assets/project-syncora-mobile.svg"><img src="assets/project-syncora.svg" width="760" alt="Syncora: synchronized watch-together rooms with YouTube playback, playlists and chat. React, Vite, Supabase and PostgreSQL."></picture></a>
+Building useful real-world products through software development, full-stack engineering, machine learning and data analysis.
 
-[Source ↗](https://github.com/visheshgupta0404/Syncora) · [Launch Syncora ↗](https://syncoramoments.pages.dev/)
+- Email: [visheshg990@gmail.com](mailto:visheshg990@gmail.com)
+- GitHub: [visheshgupta0404](https://github.com/visheshgupta0404)
+- LinkedIn: [visheshgupta0404](https://www.linkedin.com/in/visheshgupta0404)
+- LeetCode: [visheshgupta0404](https://leetcode.com/u/visheshgupta0404/)
 
-<a href="https://github.com/visheshgupta0404/PlagLe"><picture><source media="(max-width: 640px)" srcset="assets/project-plagle-mobile.svg"><img src="assets/project-plagle.svg" width="760" alt="PlagLe: document similarity and plagiarism analysis using TF-IDF and cosine similarity. Python, FastAPI, React and MySQL."></picture></a>
+**CODE → BUILD → LEARN → COLLABORATE → INNOVATE → REPEAT**
 
-[Source ↗](https://github.com/visheshgupta0404/PlagLe)
+**Stack:** Python · Java · JavaScript · SQL · React · Node.js · FastAPI · PostgreSQL · Docker · Git · scikit-learn
 
-<a href="https://github.com/visheshgupta0404/ExamEngine"><picture><source media="(max-width: 640px)" srcset="assets/project-examengine-mobile.svg"><img src="assets/project-examengine.svg" width="760" alt="ExamEngine: assessment platform with authentication and student, professor and administrator roles. JavaScript, Supabase and PostgreSQL."></picture></a>
+- **Syncora:** synchronized watch-together experience with shared YouTube playback, playlists and chat. React, Vite, Supabase and PostgreSQL.
+- **PlagLe:** document similarity and plagiarism analysis using TF-IDF vectors and cosine similarity. Python, FastAPI, React and MySQL.
+- **ExamEngine:** assessment platform with authentication and student, professor and administrator roles. JavaScript, Supabase and PostgreSQL.
+- **DispatchLens:** historical delivery-delay analytics and SQL-backed investigation dashboard. Python, SQLite and JavaScript. Source is private.
 
-[Source ↗](https://github.com/visheshgupta0404/ExamEngine) · [Open ExamEngine ↗](https://visheshgupta0404.github.io/ExamEngine/)
+**Activity:** [current contribution calendar](https://github.com/visheshgupta0404?tab=overview) · [repositories](https://github.com/visheshgupta0404?tab=repositories)
 
-<a href="https://visheshgupta0404.github.io/DispatchLens/"><picture><source media="(max-width: 640px)" srcset="assets/project-dispatchlens-mobile.svg"><img src="assets/project-dispatchlens.svg" width="760" alt="DispatchLens: historical delivery-delay analytics dashboard. Python, SQLite and JavaScript. Source is private."></picture></a>
+Statistics and language rankings are dated snapshots from GitHub on **2026-10-31**. Repository totals, stars, forks and language rankings cover public non-fork repositories. The heatmap uses GitHub's actual daily contribution levels for May–October 2026; no activity was fabricated. Language usage reflects code bytes, not proficiency. Private source code is excluded from repository statistics.
 
-[Explore DispatchLens ↗](https://visheshgupta0404.github.io/DispatchLens/) · <sub>Private source · historical data</sub>
+The original portrait is preserved without cropping or recoloring in [assets/ascii-portrait.png](assets/ascii-portrait.png). Technology silhouettes use [Simple Icons](https://github.com/simple-icons/simple-icons), under CC0. Dashboard artwork and typography are generated locally with Pillow; no JavaScript or external CSS is used in this README.
 
-## `~/activity`
-
-[Repositories](https://github.com/visheshgupta0404?tab=repositories) · [Contribution activity](https://github.com/visheshgupta0404?tab=overview) · [Public commits](https://github.com/search?q=author%3Avisheshgupta0404&type=commits)
-
-<img src="assets/activity-stats.svg" width="360" alt="Public original repository count, stars and forks, dated snapshot"> <img src="assets/activity-languages.svg" width="360" alt="Most-used languages by code bytes in public original repositories, dated snapshot">
-
-<sub>Statistics are dated snapshots from the GitHub API. Language bytes describe repository code, not proficiency. Follow Contribution activity above for GitHub's current contribution calendar.</sub>
-
----
-
-`$ ./connect --ideas --code --collaborate`
-
-[GitHub](https://github.com/visheshgupta0404) · [LinkedIn](https://www.linkedin.com/in/visheshgupta0404) · [LeetCode](https://leetcode.com/u/visheshgupta0404/) · [visheshg990@gmail.com](mailto:visheshg990@gmail.com)
-
-<sub>Code with purpose. Build something useful. Keep learning.</sub>
+</details>
